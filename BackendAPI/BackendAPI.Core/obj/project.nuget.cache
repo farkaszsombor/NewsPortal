@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EPKH82WE22Kj+ruBtKtiU4Vj/r+A4ISTE5b2dYFPFVihb6M+pbJC0xXw7H+E9Vnc/pqTr7IlbZ1AbwIVZHc0ZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Interviews\\NewsPortal\\BackendAPI\\BackendAPI.Core\\BackendAPI.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Farkas Zsombor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Farkas Zsombor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

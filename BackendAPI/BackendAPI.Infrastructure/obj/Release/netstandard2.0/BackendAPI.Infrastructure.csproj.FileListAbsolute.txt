@@ -1,0 +1,12 @@
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Infrastructure\bin\Release\netstandard2.0\BackendAPI.Infrastructure.deps.json
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Infrastructure\bin\Release\netstandard2.0\BackendAPI.Infrastructure.dll
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Infrastructure\bin\Release\netstandard2.0\BackendAPI.Infrastructure.pdb
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Infrastructure\bin\Release\netstandard2.0\BackendAPI.Core.dll
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Infrastructure\bin\Release\netstandard2.0\BackendAPI.Core.pdb
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Infrastructure\obj\Release\netstandard2.0\BackendAPI.Infrastructure.csprojAssemblyReference.cache
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Infrastructure\obj\Release\netstandard2.0\BackendAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Infrastructure\obj\Release\netstandard2.0\BackendAPI.Infrastructure.AssemblyInfo.cs
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Infrastructure\obj\Release\netstandard2.0\BackendAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Infrastructure\obj\Release\netstandard2.0\BackendAPI.Infrastructure.csproj.CopyComplete
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Infrastructure\obj\Release\netstandard2.0\BackendAPI.Infrastructure.dll
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Infrastructure\obj\Release\netstandard2.0\BackendAPI.Infrastructure.pdb

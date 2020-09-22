@@ -1,0 +1,9 @@
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Core\bin\Debug\netstandard2.0\BackendAPI.Core.deps.json
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Core\bin\Debug\netstandard2.0\BackendAPI.Core.dll
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Core\bin\Debug\netstandard2.0\BackendAPI.Core.pdb
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Core\obj\Debug\netstandard2.0\BackendAPI.Core.csprojAssemblyReference.cache
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Core\obj\Debug\netstandard2.0\BackendAPI.Core.AssemblyInfoInputs.cache
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Core\obj\Debug\netstandard2.0\BackendAPI.Core.AssemblyInfo.cs
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Core\obj\Debug\netstandard2.0\BackendAPI.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Core\obj\Debug\netstandard2.0\BackendAPI.Core.dll
+D:\Projects\Interviews\NewsPortal\BackendAPI\BackendAPI.Core\obj\Debug\netstandard2.0\BackendAPI.Core.pdb
